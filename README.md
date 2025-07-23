@@ -29,8 +29,10 @@ Inside each folder, you’ll find Markdown notes and code files (if needed) for 
 └── day1output.txt
 └── hello.py
 └── theory.md
-<br>
 /Day 2/
+└── day2.py
+<br>
+/Day 3/
 └── coming soon...
 
 
@@ -42,8 +44,9 @@ Inside each folder, you’ll find Markdown notes and code files (if needed) for 
 |-----|-------|-------|
 | 0   | Introduction to Python | [📄 Day 0](day0/) |
 | 1   | Module, Comments and PIP| [📄 Day 1](day1/) |
-| 2   | *Coming Soon* | - |
+| 2   | Variabe and Datatypes| [📄 Day 2](day2/) |
 | 3   | *Coming Soon* | - |
+| 4   | *Coming Soon* | - |
 | ... | ... | ... |
 
 ---
