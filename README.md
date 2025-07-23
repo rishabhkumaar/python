@@ -15,30 +15,6 @@ This repository is a personal log of my journey learning **Python** — one day 
 
 ---
 
-## 📁 Structure
-
-Each folder represents one day or topic of learning.  
-Inside each folder, you’ll find Markdown notes and code files (if needed) for that day's topic.
-
-/Day 0/
-└── introduction.md
-└── day0.py
-<br>
-/Day 1/
-└── day1.py
-└── day1output.txt
-└── hello.py
-└── theory.md
-<br>
-/Day 2/
-└── day2.py
-<br>
-/Day 3/
-└── coming soon...
-
-
----
-
 ## 📅 Learning Log (Index)
 
 | Day | Topic | Notes |
