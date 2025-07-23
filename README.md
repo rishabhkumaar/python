@@ -22,8 +22,13 @@ Inside each folder, you’ll find Markdown notes and code files (if needed) for 
 
 /Day 0/
 └── introduction.md
+└── day0.py
 <br>
 /Day 1/
+└── day1.py
+└── theory.md
+<br>
+/Day 2/
 └── coming soon...
 
 
@@ -33,9 +38,10 @@ Inside each folder, you’ll find Markdown notes and code files (if needed) for 
 
 | Day | Topic | Notes |
 |-----|-------|-------|
-| 0   | Introduction to Python | [📄 Read Notes](day0/introduction.md) |
-| 1   | *Coming Soon* | - |
+| 0   | Introduction to Python | [📄 Day 0](day0/) |
+| 1   | Module, Comments and PIP| [📄 Day 1](day1/) |
 | 2   | *Coming Soon* | - |
+| 3   | *Coming Soon* | - |
 | ... | ... | ... |
 
 ---
@@ -55,4 +61,3 @@ If you’re new too, start by installing Python from [python.org](https://www.py
 
 ```python
 print("Hello, Python!")
-```
