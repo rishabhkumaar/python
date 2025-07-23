@@ -1,0 +1,30 @@
+Python 3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+============== RESTART: D:\Python with GitHub\python\day1\day1.py ==============
+Twinkle, twinkle, little star,
+How I wonder what you are!
+Up above the world so high,
+Like a diamond in the sky.
+Twinkle, twinkle, little star,
+How I wonder what you are!
+Multiplication Table of 5:
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+I love Python 🐍
+Contents of current directory:
+- day1.py
+- hello.py
+- theory.md
+Contents of current directory:
+- day1.py
+- hello.py
+- theory.md
