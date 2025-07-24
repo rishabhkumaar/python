@@ -1,0 +1,12 @@
+==================== RESTART: D:\GitHub\python\day2\day2.py ====================
+Sum of 10 and 5 is: 15
+Remainder when 17 is divided by 2: 1
+Enter something: My name is Rishabh
+You entered: My name is Rishabh
+Type of the input is: <class 'str'>
+Is a greater than b? False
+Enter first number: 12
+Enter second number: 2
+Average of the two numbers is: 7.0
+Enter a number to find its square: 7
+Square of 7.0 is: 49.0
