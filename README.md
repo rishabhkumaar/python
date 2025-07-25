@@ -22,8 +22,9 @@ This repository is a personal log of my journey learning **Python** — one day 
 | 0   | Introduction to Python | [📄 Day 0](day0/) |
 | 1   | Module, Comments and PIP| [📄 Day 1](day1/) |
 | 2   | Variabe and Datatypes| [📄 Day 2](day2/) |
-| 3   | *Coming Soon* | - |
+| 3   | Strings| [📄 Day 3](day3/) |
 | 4   | *Coming Soon* | - |
+| 5   | *Coming Soon* | - |
 | ... | ... | ... |
 
 ---
