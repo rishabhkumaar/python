@@ -23,8 +23,16 @@ This repository is a personal log of my journey learning **Python** — one day 
 | 1   | Module, Comments and PIP| [📄 Day 1](day1/) |
 | 2   | Variabe and Datatypes| [📄 Day 2](day2/) |
 | 3   | Strings| [📄 Day 3](day3/) |
-| 4   | *Coming Soon* | - |
-| 5   | *Coming Soon* | - |
+| 4   | Lists and Tuples | [📄 Day 4](day4/) |
+| 5   | Dictionary and Sets | [📄 Day 5](day5/) |
+| 6   | *Coming Soon* | - |
+| 7   | *Coming Soon* | - |
+| 8   | *Coming Soon* | - |
+| 9   | *Coming Soon* | - |
+| 10   | *Coming Soon* | - |
+| 11  | *Coming Soon* | - |
+| 12  | *Coming Soon* | - |
+| 13  | *Coming Soon* | - |
 | ... | ... | ... |
 
 ---

@@ -1,0 +1,22 @@
+==================== RESTART: D:\GitHub\python\day3\day3.py ====================
+Enter fruit 1: Apple
+Enter fruit 2: Guava
+Enter fruit 3: Banana
+Enter fruit 4: Pineapple
+Enter fruit 5: Strawberry
+Enter fruit 6: Papaya
+Enter fruit 7: Mangoe
+List of fruits: ['Apple', 'Guava', 'Banana', 'Pineapple', 'Strawberry', 'Papaya', 'Mangoe']
+Enter marks for student 1: 99
+Enter marks for student 2: 98
+Enter marks for student 3: 99
+Enter marks for student 4: 100
+Enter marks for student 5: 95
+Enter marks for student 6: 91
+Sorted marks: [91, 95, 98, 99, 99, 100]
+Original tuple: (1, 2, 3, 4)
+Tuples are immutable. You cannot change their values.
+List of numbers: [5, 10, 15, 20]
+Sum of numbers: 50
+Tuple: (7, 0, 8, 0, 0, 9)
+Number of zeros: 3

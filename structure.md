@@ -5,22 +5,22 @@ Inside each folder, you’ll find Markdown notes and code files (if needed) for 
 
 ### Current Structure:
 ```md
-/Day 0/
+/day0/
 ├── introduction.md
 └── day0.py
 
-/Day 1/
+/day1/
 ├── day1.py
 ├── day1output.txt
 ├── hello.py
 └── theory.md
 
-/Day 2/
+/day2/
 ├── day2.py
 ├── day2output.txt
 └── theory.md
 
-/Day 3/
+/day3/
 ├── /Asynchronous & OOP
 |   ├── day03_async.py
 |   └── output.txt
@@ -28,6 +28,11 @@ Inside each folder, you’ll find Markdown notes and code files (if needed) for 
 ├── day3output.txt
 └── theory.md
 
-/Day 4/
+/day4/
+├── day4.py
+├── day4output.txt
+└── theory.md
+
+/day5/
 └── coming soon...
 ```
