@@ -1,14 +1,14 @@
-==================== RESTART: D:\GitHub\python\day3\day3.py ====================
-Enter your name: Rishabh
-Good Afternoon, Rishabh
-Enter your name: Rishabh
-Enter the date (DD/MM/YYYY): 07/07/2006
+======= RESTART: D:\GitHub\python\day3\Asynchronous & OOP\day03_async.py =======
+Enter your name: Rishabh Kumar
+Good Afternoon, Rishabh Kumar
+Enter your name: Rishabh Kumar
+Enter the date (DD/MM/YYYY): 25/07/2006
 
 Formatted Letter:
 
-Dear Rishabh,
+Dear Rishabh Kumar,
 You are selected!
-07/07/2006
+25/07/2006
 
 First occurrence of double spaces is at index: 16
 
