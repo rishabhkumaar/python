@@ -1,1 +1,29 @@
 ==================== RESTART: D:\GitHub\python\day5\day5.py ====================
+Enter a Hindi word to translate: pankha
+Meaning: fan
+Enter number 1: 1
+Enter number 2: 2
+Enter number 3: 3
+Enter number 4: 4
+Enter number 5: 5
+Enter number 6: 6
+Enter number 7: 7
+Enter number 8: 8
+Unique numbers: {1, 2, 3, 4, 5, 6, 7, 8}
+{'18', 18}
+Set: {20, '20'}
+Length of set: 2
+Type of s: <class 'dict'>
+Enter your name: Rishabh
+Enter your favorite language: Python
+Enter your name: Friend1
+Enter your favorite language: C
+Enter your name: Friend2
+Enter your favorite language: Java
+Enter your name: Friend3
+Enter your favorite language: English
+Favorite languages dictionary: {'Rishabh': 'Python', 'Friend1': 'C', 'Friend2': 'Java', 'Friend3': 'English'}
+Traceback (most recent call last):
+  File "D:\GitHub\python\day5\day5.py", line 87, in <module>
+    s = {8, 7, 12, "Rishabh", [7, 7, 6]}  # ❌ This will raise an error
+TypeError: unhashable type: 'list'
