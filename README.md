@@ -25,11 +25,11 @@ This repository is a personal log of my journey learning **Python** — one day 
 | 3   | Strings| [📄 Day 3](day3/) |
 | 4   | Lists and Tuples | [📄 Day 4](day4/) |
 | 5   | Dictionary and Sets | [📄 Day 5](day5/) |
-| 6   | *Coming Soon* | - |
+| 6   | Conditional Expressions |[📄 Day 6](day6/)|
 | 7   | *Coming Soon* | - |
 | 8   | *Coming Soon* | - |
 | 9   | *Coming Soon* | - |
-| 10   | *Coming Soon* | - |
+| 10  | *Coming Soon* | - |
 | 11  | *Coming Soon* | - |
 | 12  | *Coming Soon* | - |
 | 13  | *Coming Soon* | - |
@@ -52,3 +52,4 @@ If you’re new too, start by installing Python from [python.org](https://www.py
 
 ```python
 print("Hello, Python!")
+```
