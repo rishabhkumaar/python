@@ -1,4 +1,4 @@
-==================== RESTART: D:\GitHub\python\day3\day3.py ====================
+==================== RESTART: D:\GitHub\python\day4\day4.py ====================
 Enter fruit 1: Apple
 Enter fruit 2: Guava
 Enter fruit 3: Banana
