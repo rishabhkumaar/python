@@ -1,0 +1,6 @@
+Project 3 - Studnent Library
+
+Implement a student library system using OOPs where student can borrow a book from the list of books.
+Create a seperate Library and Student class.
+Your program must be menu driven.
+You are free to choose methods and attributes of your choice to implement this functionality.
