@@ -26,13 +26,13 @@ This repository is a personal log of my journey learning **Python** — one day 
 | 4   | Lists and Tuples | [📄 Day 4](day4/) |
 | 5   | Dictionary and Sets | [📄 Day 5](day5/) |
 | 6   | Conditional Expressions |[📄 Day 6](day6/)|
-| 7   | *Coming Soon* | - |
-| 8   | *Coming Soon* | - |
-| 9   | *Coming Soon* | - |
-| 10  | *Coming Soon* | - |
-| 11  | *Coming Soon* | - |
-| 12  | *Coming Soon* | - |
-| 13  | *Coming Soon* | - |
+| 7   | Loops in Python | [📄 Day 7](day7/) |
+| 8   | *Coming Soon* | [📄 Day 8](day8/) |
+| 9   | *Coming Soon* | [📄 Day 9](day9/) |
+| 10  | *Coming Soon* | [📄 Day 10](day10/) |
+| 11  | *Coming Soon* | [📄 Day 11](day11/) |
+| 12  | *Coming Soon* | [📄 Day 12](day12/) |
+| 13  | *Coming Soon* | [📄 Day 13](day13/) |
 | ... | ... | ... |
 
 ---

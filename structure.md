@@ -38,11 +38,26 @@ Inside each folder, you’ll find Markdown notes and code files (if needed) for 
 ├── day5output.txt
 └── theory.md
 
-/day5/
+/day6/
 ├── day6.py
 ├── day6output.txt
 └── theory.md
 
 /day7/
+├── day7.py
+├── day7output.txt
+└── theory.md
+
+/day8/
+├── day8.py
+├── day8output.txt
+└── theory.md
+
+/day9/
+├── day9.py
+├── day9output.txt
+└── theory.md
+
+/day10/
 └── coming soon...
 ```
