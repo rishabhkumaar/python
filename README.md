@@ -33,7 +33,6 @@ This repository is a personal log of my journey learning **Python** — one day 
 | 11  | *Coming Soon* | [📄 Day 11](day11/) |
 | 12  | *Coming Soon* | [📄 Day 12](day12/) |
 | 13  | *Coming Soon* | [📄 Day 13](day13/) |
-| ... | ... | ... |
 
 ---
 
