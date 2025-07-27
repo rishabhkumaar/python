@@ -33,8 +33,10 @@ def examination_tool(*marks):
     else:
         print("Congratulations! You are promoted to the next academic session.")
 
-# Call the function
-examination_tool()
+# Test
+examination_tool(45, 70, 29)  # Fails due to one subject < 33
+examination_tool(40, 40, 40)  # Passes
+examination_tool(35, 38, 20)  # Fails due to one subject < 33
 
 # Problem 3:
 '''

@@ -1,0 +1,23 @@
+
+==================== RESTART: D:\GitHub\python\day6\day6.py ====================
+Enter first number: 1
+Enter second number: 2
+Enter third number: 3
+Enter fourth number: 4
+4 is the greatest
+Student Failed due to insufficient marks in a subject.
+Congratulations! You are promoted to the next academic session.
+Student Failed due to insufficient marks in a subject.
+🚨 This could be a SPAM Message! BE ALERT!
+✅ Looks Fine for Now!
+The user ID 'rishabh' is shorter than 10 characters.
+The user ID 'rishabh12345' is 10 or more characters long.
+✅ Yes, 'Rishabh' is present in the list.
+❌ No, 'Vikram' is not present in the list.
+Student: Rishabh, Marks: 92, Grade: O
+Student: Anjali, Marks: 78, Grade: B
+Student: Aryan, Marks: 47, Grade: F
+Invalid marks for Neha: 105
+✅ This post is talking about Rishabh.
+❌ This post does not mention Rishabh.
+✅ This post is talking about Rishabh.
