@@ -36,6 +36,15 @@ This repository is a personal log of my journey learning **Python** — one day 
 
 ---
 
+## Project Log
+| Sr. No. | Project | Location |
+|---------|---------|----------|
+| 1       | Stone, Paper, Scissor Shoot | [📄 Project 1](project1/main.py) |
+| 2       | *Coming Soon* | [📄 Project 2](project2/main.py) |
+| 3       | *Coming Soon* | [📄 Project 3](project3/main.py) |
+
+---
+
 ## 🛠️ How to Use This Repo
 
 - Browse folders by day
