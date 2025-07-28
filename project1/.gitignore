@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+venv/
+ENV/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Windows thumbnail cache
+Thumbs.db

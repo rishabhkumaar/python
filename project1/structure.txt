@@ -1,0 +1,11 @@
+project1/
+│
+├── main.py                  # Your main Tkinter game script
+├── resources/               # Folder containing images
+│   ├── rock.png
+│   ├── paper.png
+│   └── scissor.png
+│
+├── README.md                # Project description and instructions
+├── requirements.txt         # Required packages (Pillow)
+└── .gitignore               # Files to ignore in Git

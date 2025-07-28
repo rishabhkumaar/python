@@ -1,4 +1,2 @@
-🕹️ Project 1: Snake, Water, Gun Game
-Theme: URBAN EDGE
-
-We’ve all played the classic Snake, Water, Gun game during our childhood (similar to Rock, Paper, Scissors). If you haven’t, take a moment to look up how it works — it's a simple but fun decision-based game.
+🕹️ Project 1: Rock, Paper, Scissor
+We’ve all played the classic Rock, Paper, Scissor game during our childhood (similar to Rock, Paper, Scissors). If you haven’t, take a moment to look up how it works — it's a simple but fun decision-based game.
