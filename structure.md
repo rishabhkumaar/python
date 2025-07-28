@@ -55,7 +55,6 @@ Inside each folder, you’ll find Markdown notes and code files (if needed) for 
 
 /day9/
 ├── day9.py
-├── day9output.txt
 └── theory.md
 
 /day10/
