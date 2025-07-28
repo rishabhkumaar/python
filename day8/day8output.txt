@@ -1,0 +1,42 @@
+==================== RESTART: D:\GitHub\python\day8\day8.py ====================
+25
+Enter input unit (Celsius/Fahrenheit/Kelvin): Kelvin
+Enter output unit (Celsius/Fahrenheit/Kelvin): Celsius
+Enter temperature in Kelvin: 273.15
+273.15° Kelvin = 0.00° Celsius
+Test Case Line 1Test Case Line 2
+55
+28
+25.4
+10.0
+***
+**
+*
+['banana', 'cherry']
+Table of 7 :
+**********
+7 x 1 = 7
+7 x 2 = 14
+7 x 3 = 21
+7 x 4 = 28
+7 x 5 = 35
+7 x 6 = 42
+7 x 7 = 49
+7 x 8 = 56
+7 x 9 = 63
+7 x 10 = 70
+**********
+
+Table of 11 :
+**********
+11 x 1 = 11
+11 x 2 = 22
+11 x 3 = 33
+11 x 4 = 44
+11 x 5 = 55
+11 x 6 = 66
+11 x 7 = 77
+11 x 8 = 88
+11 x 9 = 99
+11 x 10 = 110
+**********
