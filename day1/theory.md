@@ -1,4 +1,3 @@
-
 # 📘 Chapter 1: Modules, Comments & PIP
 
 Welcome to your very first Python program! In this chapter, we'll cover:

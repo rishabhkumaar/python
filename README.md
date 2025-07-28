@@ -29,7 +29,7 @@ This repository is a personal log of my journey learning **Python** — one day 
 | 7   | Loops in Python | [📄 Day 7](day7/) |
 | 8   | Functions & Recursions | [📄 Day 8](day8/) |
 | 9   | File I/O in Python | [📄 Day 9](day9/) |
-| 10  | *Coming Soon* | [📄 Day 10](day10/) |
+| 10  | Object Oriented Programing | [📄 Day 10](day10/) |
 | 11  | *Coming Soon* | [📄 Day 11](day11/) |
 | 12  | *Coming Soon* | [📄 Day 12](day12/) |
 | 13  | *Coming Soon* | [📄 Day 13](day13/) |
