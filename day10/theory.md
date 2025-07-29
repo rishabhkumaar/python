@@ -54,7 +54,10 @@
 
   ```python
   class Employee:
-      company = "Google"
+      company = "Google" # Specific to each class
+    rishabh = Employee() # Object instantiation
+    rishabh.company 
+    Employee.company = "Google" # Changing class attribute
   ```
 
 #### **b. Instance Attribute**
@@ -110,6 +113,9 @@
   class Employee:
       def __init__(self, name):
           self.name = name
+      def getSalary(self):
+        # ...
+  rishabh=Employee("Rishabh") # Object can be instantiated using constructor like this
   ```
 
 ---
