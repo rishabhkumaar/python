@@ -1,58 +1,154 @@
-Chapter 11 - Inheritance & More on OOPs
+# **Chapter 11 - Inheritance & More on OOPs**
 
-Inheritance is a way of creating a new class from an existing class.
+---
+
+## **What is Inheritance?**
+
+Inheritance is a feature in Object-Oriented Programming that allows a new class (child/derived class) to inherit attributes and methods from an existing class (base/parent class).
 
 ```python
-# Syntax
+# Example
 
 class Employee:             # Base Class
-    # code ...
+    pass
+
 class Programmer(Employee): # Derived or Child Class
-    # code ...
+    pass
 ```
 
-We can use the methods and attributes of Employee in Programmer object.
+With inheritance, the `Programmer` class can reuse the code in `Employee`, and also add or override functionality.
 
-Also, we can overwrite or add new attributes and methods in Programmer class.
+---
 
-### Types of Inheritance
-* 1. Single Inheritance
-* 2. Multiple Inheritance
-* 3. Multilevel Inheritance
+## **Types of Inheritance**
 
-## Single Inheritance
-Single inheritance occurs when child class inherits only a single parent class.
+1. **Single Inheritance**
+   One child class inherits from one parent class.
 
-Base => Derived
+   ```
+   Base → Derived
+   ```
 
-## Multiple Inheritance 
-Multiple inheritance occurs when the child class inherits from more than one parent class.
+2. **Multiple Inheritance**
+   One child class inherits from multiple parent classes.
 
-[Parent 1]      [Parent 2]
-    |               |
-    └───────────────┘
-            |
-            Child       
+   ```
+   [Parent1]     [Parent2]
+       \           /
+        \         /
+         \       /
+           Child
+   ```
 
-## Multilevel Inheritance
+3. **Multilevel Inheritance**
+   A chain of inheritance.
 
-When a child class becomes a parent for another child class.
+   ```
+   Parent
+     ↓
+   Child1
+     ↓
+   Child2
+   ```
 
-Parent
-   |
-Child 1
-   |
-Child 2
+---
 
-## super() method
+## **The `super()` Method**
 
-super method is used to access the methofs of a superclass in the derived class.
+* `super()` is used to call methods of the parent class inside the child class.
+* Commonly used to initialize parent class constructor.
 
 ```python
-super().__init__()
-                 └─> Calls constructor of the base class.
+class A:
+    def __init__(self):
+        print("A's constructor")
+
+class B(A):
+    def __init__(self):
+        super().__init__()  # Calls A's constructor
+        print("B's constructor")
 ```
 
-## class methods
-A class method is a method which is bounded to the class and not the object of the class.
-@classmethod decorator is used to create a class method
+---
+
+## **Class Methods**
+
+* Bound to the **class**, not an instance.
+* Created using the `@classmethod` decorator.
+* First parameter is usually named `cls`.
+
+```python
+class MyClass:
+    @classmethod
+    def show(cls):
+        print("This is a class method")
+```
+
+---
+
+## **@property Decorator**
+
+* Allows methods to be accessed like attributes.
+* Often used to define **getters**, **setters**, and **deleters** for encapsulated attributes.
+
+```python
+class Employee:
+    def __init__(self, name):
+        self._ename = name
+
+    @property
+    def name(self):
+        return self._ename
+
+    @name.setter
+    def name(self, value):
+        self._ename = value
+```
+
+Usage:
+
+```python
+e = Employee("Ravi")
+print(e.name)      # Getter
+e.name = "Rohan"   # Setter
+```
+
+---
+
+## **Operator Overloading**
+
+Python lets you override operators for objects using **dunder (double underscore) methods**:
+
+| Operator | Method           | Example    |
+| -------- | ---------------- | ---------- |
+| `+`      | `__add__()`      | `p1 + p2`  |
+| `-`      | `__sub__()`      | `p1 - p2`  |
+| `*`      | `__mul__()`      | `p1 * p2`  |
+| `//`     | `__floordiv__()` | `p1 // p2` |
+
+---
+
+## **Other Magic Methods**
+
+* `__str__()` → Defines behavior for `str(obj)`
+* `__len__()` → Defines behavior for `len(obj)`
+
+Example:
+
+```python
+class Book:
+    def __init__(self, pages):
+        self.pages = pages
+
+    def __len__(self):
+        return self.pages
+
+    def __str__(self):
+        return f"Book with {self.pages} pages"
+
+b = Book(200)
+print(len(b))      # 200
+print(str(b))      # Book with 200 pages
+```
+
+---
