@@ -77,7 +77,6 @@ Inside each folder, you’ll find Markdown notes and code files (if needed) for 
 |   └──/question6/
 |      ├── explanation.md
 |      └── problem.py 
-├── day10.py
 └── theory.md
 
 /day11/
