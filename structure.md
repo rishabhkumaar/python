@@ -80,8 +80,28 @@ Inside each folder, you’ll find Markdown notes and code files (if needed) for 
 └── theory.md
 
 /day11/
-├── day11.py
-├── day11output.txt
+├── /question/
+|   ├──/question1/
+|   |  ├── explanation.md
+|   |  └── problem.py
+|   ├──/question2/
+|   |  ├── explanation.md
+|   |  └── problem.py
+|   ├──/question3/
+|   |  ├── explanation.md
+|   |  └── problem.py
+|   ├──/question4/
+|   |  ├── explanation.md
+|   |  └── problem.py
+|   ├──/question5/
+|   |  ├── explanation.md
+|   |  └── problem.py
+|   ├──/question6/
+|   |  ├── explanation.md
+|   |  └── problem.py
+|   └──/question7/
+|      ├── explanation.md
+|      └── problem.py 
 └── theory.md
 
 /day12/
